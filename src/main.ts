@@ -1,4 +1,3 @@
-// import { initializeApp } from 'firebase-admin';
 import { initializeApp, applicationDefault } from 'firebase-admin/app';
 
 const app = initializeApp({
