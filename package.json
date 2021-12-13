@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node": ">=14.15.1"
+  },
   "scripts": {
     "start": "ts-node ./src/main",
     "test": "echo \"Error: no test specified\" && exit 1"
